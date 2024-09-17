@@ -1,0 +1,6 @@
+notebook
+jupyter_contrib_nbextensions
+pandas
+plotly
+ipywidgets
+matplotlib

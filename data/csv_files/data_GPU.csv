@@ -1,0 +1,4 @@
+GPU_Name,Performance_Tensor,Max_Power,Price,Release_Date,CO2_Emissions_Production,Water_Consumption_Production,Abiotic_Depletion_Production,Electronic_Waste_Production
+V100,125,300,26300,2019-01,100,50,0.015,1.6
+A100,500,400,31900,2020-06,150,75,0.022,1.92
+H100,2000,700,29500,2023-01,150,100,0.0285,1.92
