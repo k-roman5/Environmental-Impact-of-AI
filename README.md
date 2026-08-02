@@ -40,7 +40,7 @@ jupyter notebook
 
 Vous pouvez également ouvrir le fichier du notebook avec un éditeur de code compatible tel que Visual Studio Code pour travailler avec le projet.
 
-## Contributeurs  : 
+## Contributeur  : 
 | [<img src="https://avatars.githubusercontent.com/u/102798439?v=4" width="50" height="50" alt=""/>](https://github.com/k-roman5) |
 | :-----------------------------------------------------------------------------------------------------------------------------: |
 |                                           [Karina Roman](https://github.com/k-roman5)                                           |
